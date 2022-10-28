@@ -2,11 +2,3 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
