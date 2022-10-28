@@ -1,0 +1,6 @@
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/cec17_test_func.dir
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/testsolis.dir
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/test.dir
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tomir/Desktop/Ing Informatica/MH/Practica Alternativa/CMakeFiles/testrandom.dir

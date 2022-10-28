@@ -1,0 +1,10 @@
+Práctica 1 Metaheurísticas.
+
+Para usar main.py:
+python3 main.py SEMILLA RUTA_A_CASO
+
+El programa devolverá las soluciones y el tiempo que tarda cada algoritmo.
+
+main.py carga el caso en una matriz numpy y lo pasa a los algoritmos.
+Greedy.py definde el algoritmo greedy para resolver el problema MDP en una función la cual sigue el pseudocódigo de las transparencias del seminario 2.
+BL.py define el algoritmo de Büsqueda Local con las técnicas mostradas en el seminario 2.
